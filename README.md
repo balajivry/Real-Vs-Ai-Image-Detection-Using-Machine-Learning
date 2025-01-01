@@ -13,6 +13,7 @@ The project consists of the following main components:
 - `code.ipynb`: A Jupyter Notebook explaining the model training process.
 - `model.hdf5`: The file model.hdf5 contains a saved version of the trained model, which prevents the need to retrain the model each time it is tested.
 - `home.html`: The file home.html consists of combined html and css scripts for the web site.
+- `image rename.py`: The file used to rename the images in the dataset. This script renames all the images in a given directory to sequential numerical filenames .
 
 ## Model Development
 
