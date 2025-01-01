@@ -1,8 +1,7 @@
 # Real Vs Ai Image Detection Using Machine Learning
 
 ## Overview
-A web application to detect whether an image is AI-generated or Real Image using Machine Learning. This project features an intuitive web interface built with Flask, allowing users to upload an image and receive a prediction. The application structure includes app.py for the Flask app,in the main folder create a sub folder templates for web page home.html , and a static folder for uploaded images . To get started, install requirements, ensure the static and templates directories exist, and place home.html in templates. Run the Flask app locally with python app.py and access the web interface at http://127.0.0.1:5000/. Make sure to rename the images place all the files and folders in one main folder.
-
+A web application to detect whether an image is AI-generated or a Real image using machine learning. This project features an intuitive web interface built with Flask, allowing users to upload an image and receive a prediction. The application structure includes app.py for the Flask app, a templates folder for the home.html web page, and a static folder for uploaded images. To get started, install the required packages, ensure the static and templates directories exist, and place home.html in the templates folder. Run the Flask app locally with python app.py and access the web interface at http://127.0.0.1:5000/. Make sure to place all the files and folders in the main project directory.
 ### Dataset
 
 You can find the dataset we used for this project on Kaggle: [Fake AI-generated and Real Image Dataset](https://www.kaggle.com/code/deadlysmile/ai-vs-real-art-detection)
