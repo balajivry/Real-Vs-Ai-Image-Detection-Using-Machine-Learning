@@ -1,7 +1,7 @@
 import os
 
 # Path to the directory containing the images
-directory = 'C:\Desktop\maj\RealArt'
+directory = 'directory of your image folder'
 
 # Loop through all files in the directory
 for count, filename in enumerate(os.listdir(directory)):
