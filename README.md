@@ -16,7 +16,7 @@ The project consists of the following main components:
 - `home.html`: The file home.html consists of combined html and css scripts for the web site.
 
 ## Directory Structure
-	   ## Main folder
+    ## Main folder
     |-- Ai Art Data                             # Folder for AI-generated art data
     |-- Real Art                                # Folder for real art data
     |-- Templates Folder------> home.html       # Folder for HTML templates keep home.html in templates folder
